@@ -6,7 +6,30 @@
 
 五筆字型 86 版
 
+此rep fork自 https://github.com/rime/rime-wubi 并增加两个自定义配置文件：
+
+```
+default.custom.yaml
+wubi86.custom.yaml
+```
+
 ## 安裝
+
+将此目录所有 *.yaml 文件复制到 RIME 用户配置目录
+
+### Windows RIME 用户配置目录
+
+```
+%AppData%\Rime
+```
+
+### Linux ibus-rime 用户配置目录
+
+```
+$HOME/.config/ibus/rime
+```
+
+## MISC
 
 拼音反查、五筆拼音混合輸入依賴於
 
