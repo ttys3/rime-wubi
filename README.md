@@ -29,6 +29,15 @@ wubi86.custom.yaml
 $HOME/.config/ibus/rime
 ```
 
+### Mac RIME 用户配置目录
+
+```
+~/Library/Rime/
+```
+
+@see https://github.com/rime/home/wiki/RimeWithSchemata#rime-%E4%B8%AD%E7%9A%84%E6%95%B8%E6%93%9A%E6%96%87%E4%BB%B6%E5%88%86%E4%BD%88%E5%8F%8A%E4%BD%9C%E7%94%A8
+
+
 ## MISC
 
 拼音反查、五筆拼音混合輸入依賴於
